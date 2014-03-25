@@ -8,7 +8,7 @@
     },
     "autoload": {
         "files": [
-            "class.upload.php"
+            "lib/Upload.php"
         ]
     }
 }
